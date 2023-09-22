@@ -1,0 +1,37 @@
+# Code & Team Activity Ideas
+
+- Refucktoring
+- CodinGame Escape Room
+- CodinGame Clash of Code (kinda a Hackathon competition)
+- Bingo (create your own Team Bingo with insider jokes)
+- Pub Quiz Developer Edition
+- Ice breaker game: Happy Salmon
+  - Print your own: https://woutergeelen.nl/your-own-happy-salmon-game/
+  - As the blog seems to be down, card pdfs are also here in the repo
+- Online games
+  - skribbl.io
+  - Wikitrivia
+  - Tradle
+  - GeoGuesser
+  - Guess the game
+  - Gartic Phone
+- Classic stuff
+  - (Virtual) Escape Room
+  - Go Karting
+  - Bowling
+  - Billiard
+  - etc.
+- Classic games:
+  - Exploding Kittens
+  - Cards against Humanity
+    - Cards against Agility
+    - Cards against Compilers
+    - The Game against Downtime
+    - etc.
+  - Two Rooms and a boom
+  - Tempel des Schreckens
+  - Keep Talking and Nobody Explodes
+- Jackbox Games
+  - Drawful
+  - Split the room
+  - Quiplash
