@@ -1,0 +1,11 @@
+2023-09-22 Kauf Laptop
+  Aktiva:Anlagevermögen:Laptop  500
+  Aktiva:Umlaufvermögen:Bank  -500
+
+2023-09-23 Laptop verloren
+  Aktiva:Anlagevermögen:Laptop  -200
+  GuV:Aufwand:AfA  200
+
+2023-09-23 Übertragung in Passiva - Forderung!
+  Aktiva:Umlaufvermögen:Bank  500
+  Passiva:Verbindlichkeiten:Bank  -500
