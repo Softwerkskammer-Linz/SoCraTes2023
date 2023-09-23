@@ -11,3 +11,6 @@
 ## Saturday
 
 * [ArchUnit - Test your Software Architecture](<./ArchUnit - Test your Software Architecture/ArchUnit.pdf>)
+* [Modern Linux CLI Tools](./modern-linux-cli-tools/README.md)
+* [Review my test code style](./review-my-test-code-style/review-my-test-code-style.md)
+
