@@ -8,3 +8,7 @@
 * JOOQ: We reviewed and discussed the code in [jooq-playground](https://github.com/dtanzer/jooq-playground)
 * [Refucktoring](./Refucktoring/Refucktoring.md)
 * [Modern Linux CLI Tools](./modern-linux-cli-tools/README.md)
+
+## Saturday
+
+* [Review my test code style](./review-my-test-code-style/review-my-test-code-style.md)
