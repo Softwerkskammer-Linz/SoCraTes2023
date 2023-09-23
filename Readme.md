@@ -7,3 +7,7 @@
 * [ChatGPT Beyond the Hype](<./ChatGPT - Beyond the hype/ChatGPT Beyond the Hype.pdf>) Or "how to improve your efficiency by using large language models"
 * JOOQ: We reviewed and discussed the code in [jooq-playground](https://github.com/dtanzer/jooq-playground)
 * [Refucktoring](./Refucktoring/Refucktoring.md)
+
+## Saturday
+
+* [Review my test code style](./review-my-test-code-style.md)
