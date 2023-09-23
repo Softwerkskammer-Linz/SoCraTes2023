@@ -1,4 +1,5 @@
 Scrum Refinements
+by Amina Hasimbegovic
 
 - Ideas
   - Separation between functional and technical refinement
