@@ -14,4 +14,5 @@
 * [ArchUnit - Test your Software Architecture](<./ArchUnit - Test your Software Architecture/ArchUnit.pdf>)
 * [Modern Linux CLI Tools](./modern-linux-cli-tools/README.md)
 * [Review my test code style](./review-my-test-code-style/review-my-test-code-style.md)
-
+* [Alice in Quantum Wonderland](./alice-in-quantum-wonderland/Alice_in_Quantum_Wonderland.pdf)
+* [CQRS and Event Sourcing](./cqrs-and-eventsourcing/cqrs-and-eventsourcing.pdf)
