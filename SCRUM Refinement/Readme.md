@@ -25,4 +25,5 @@ Scrum Refinements
 
 
 Example SCRUM process:
+
 ![Example SCRUM process](./Development%20and%20Test%20Process.drawio.svg)
