@@ -2,9 +2,14 @@
 
 by [@haraldreingruber](https://github.com/haraldreingruber)
 
+## Experience report from Open Space events at Dedalus Healthcare:
+
 * Open Space within company: Many did not know it first but it was well received (also online)
-  * Participation ~30/100
-* There is a great Miro template to use for open spaces
+  * Participation ~30 out of 100-150 employees
+* There is a great Miro template to use for online open space events:
+  * https://miro.com/miroverse/open-space-online/
+ 
+## Open Discussion
 * Target Audience: No clear definition but not only developers
   * Does not have to be restricted
   * You could also host multiple open spaces for various target groups
@@ -14,7 +19,7 @@ by [@haraldreingruber](https://github.com/haraldreingruber)
     * That happens automatically during an open space
   * Might be easier to organize within a company if only certain teams are going/targeted
 * Company internal vs public open space
-  * Who is driving ideas that are created during the open space?
+  * Who is following up ideas/action items that are created during the open space?
   * Internal: People might be afraid to talk about certain problems (no safe space)
 * An open space could be as simple as doing calls (off & on topic)
   * Marketplace: you simply post the topic & time for your call somewhere
