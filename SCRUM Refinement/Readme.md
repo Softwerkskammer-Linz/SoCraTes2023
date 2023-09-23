@@ -24,6 +24,6 @@ Scrum Refinements
   - Too much Work In Progress items at the same time
 
 
-Example SCRUM process:
+Example development & test process:
 
 ![Example SCRUM process](./Development%20and%20Test%20Process.drawio.svg)
