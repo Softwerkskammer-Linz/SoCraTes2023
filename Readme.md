@@ -17,4 +17,5 @@
 * [Review my test code style](./review-my-test-code-style/review-my-test-code-style.md)
 * [Alice in Quantum Wonderland](./alice-in-quantum-wonderland/Alice_in_Quantum_Wonderland.pdf)
 * [CQRS and Event Sourcing](./cqrs-and-eventsourcing/cqrs-and-eventsourcing.pdf)
+* [Modern modern C++ style](./modern-modern-cpp/modern-modern-cpp.md)
 * [Company (internal?) Open-Space](./Company-Internal-Open-Space/Readme.md)
