@@ -7,6 +7,7 @@
 * [ChatGPT - Beyond the Hype](<./ChatGPT - Beyond the hype/ChatGPT Beyond the Hype.pdf>) Or "how to improve your efficiency by using large language models"
 * JOOQ: We reviewed and discussed the code in [jooq-playground](https://github.com/dtanzer/jooq-playground)
 * [Refucktoring](./Refucktoring/Refucktoring.md)
+* [SCRUM Refinements](./SCRUM%20Refinement/Readme.md)
 * [(Internal) Community Building](./InternalCommunityBuilding/InternalCommunityBuilding.md)
 
 ## Saturday
@@ -17,3 +18,4 @@
 * [Alice in Quantum Wonderland](./alice-in-quantum-wonderland/Alice_in_Quantum_Wonderland.pdf)
 * [CQRS and Event Sourcing](./cqrs-and-eventsourcing/cqrs-and-eventsourcing.pdf)
 * [Modern modern C++ style](./modern-modern-cpp/modern-modern-cpp.md)
+* [Company (internal?) Open-Space](./Company-Internal-Open-Space/Readme.md)
