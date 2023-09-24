@@ -10,7 +10,7 @@
 * [SCRUM Refinements](./SCRUM%20Refinement/Readme.md)
 * [(Internal) Community Building](./InternalCommunityBuilding/InternalCommunityBuilding.md)
 * [How to proper LoadTest and measure your Software](./How-to-LoadTest/How-toLoadTest.md)
-
+* [EcoCylce Planning](./EcoCycle-Planning/EcoCycle-Planning.md)
 
 ## Saturday
 
