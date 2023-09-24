@@ -9,6 +9,7 @@
 * [Refucktoring](./Refucktoring/Refucktoring.md)
 * [SCRUM Refinements](./SCRUM%20Refinement/Readme.md)
 * [(Internal) Community Building](./InternalCommunityBuilding/InternalCommunityBuilding.md)
+* [Logstash goes TDD](./Logstash%20goes%20TDD/README.md)
 
 ## Saturday
 
