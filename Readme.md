@@ -9,6 +9,8 @@
 * [Refucktoring](./Refucktoring/Refucktoring.md)
 * [SCRUM Refinements](./SCRUM%20Refinement/Readme.md)
 * [(Internal) Community Building](./InternalCommunityBuilding/InternalCommunityBuilding.md)
+* [How to proper LoadTest and measure your Software](./How-to-LoadTest/How-toLoadTest.md)
+* [EcoCylce Planning](./EcoCycle-Planning/EcoCycle-Planning.md)
 * [Logstash goes TDD](./Logstash%20goes%20TDD/README.md)
 
 ## Saturday
@@ -21,4 +23,5 @@
 * Scale Agility. An Introduction for Developers
 * [Modern modern C++ style](./modern-modern-cpp/modern-modern-cpp.md)
 * [Company (internal?) Open-Space](./Company-Internal-Open-Space/Readme.md)
+* [Architectural Katas](./Architectural-Katas/Architectural-Katas.md)
 * [Contract testing with Pact](./contract-testing-with-pact)
