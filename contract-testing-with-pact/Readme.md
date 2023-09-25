@@ -1,3 +1,9 @@
+![Testing an API](./testing_an_api.png)
+
+![Contract Test](./contract_test.png)
+
+![Pact](./pact.png)
+
 Example code: [https://github.com/dtanzer/contract-testing](https://github.com/dtanzer/contract-testing)  
 Check out the following commits in branch [pact-intro](https://github.com/dtanzer/contract-testing/tree/pact-intro)
 
