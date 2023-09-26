@@ -27,3 +27,4 @@
 * [Contract testing with Pact](./contract-testing-with-pact)
 * [Lightning Talks](./lightning-talks)
 * [TDD vs? Interactive/Literate Programming](./tdd-vs-ip-and-lp)
+* [3d printing](./3d-printing)
