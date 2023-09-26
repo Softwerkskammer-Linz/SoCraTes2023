@@ -26,4 +26,4 @@
 * [Architectural Katas](./Architectural-Katas/Architectural-Katas.md)
 * [Contract testing with Pact](./contract-testing-with-pact)
 * [Lightning Talks](./lightning-talks)
-* [TDD vs? Interactive/Literate Programming](./)
+* [TDD vs? Interactive/Literate Programming](./tdd-vs-ip-and-lp)
