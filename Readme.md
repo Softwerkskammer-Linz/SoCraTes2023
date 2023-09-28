@@ -12,6 +12,7 @@
 * [How to proper LoadTest and measure your Software](./How-to-LoadTest/How-toLoadTest.md)
 * [EcoCylce Planning](./EcoCycle-Planning/EcoCycle-Planning.md)
 * [Logstash goes TDD](./Logstash%20goes%20TDD/README.md)
+* [pre-commit](./pre-commit/pre-commit.md)
 
 ## Saturday
 
