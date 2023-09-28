@@ -29,3 +29,4 @@
 * [Lightning Talks](./lightning-talks)
 * [TDD vs? Interactive/Literate Programming](./tdd-vs-ip-and-lp)
 * [3d printing](./3d-printing)
+* [Improving the accuracy of effort estimates](accuracy-of-effort-estimates/accuracy-of-effort-estimates.md)
