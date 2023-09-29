@@ -1,0 +1,5 @@
+= Exception Handling without exceptions
+
+The idea of the demo is how to write an expression parser with very expressive error handling the easy way. It also explains why monads are really useful and not stuff only meant for mathematicians.
+
+Please see my https://github.com/enolive/monads-session[GitHub Repo] for the complete code.
