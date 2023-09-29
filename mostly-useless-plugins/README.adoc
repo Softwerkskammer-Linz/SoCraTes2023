@@ -1,0 +1,21 @@
+= IntelliJ Plugins
+
+== useful
+
+* Key Promoter X
+* Presentation Assistant
+* GitToolBox
+* AsciiDoc
+* Limited-WIP
+* Rainbow Brackets
+* CognitiveComplexity (currently incompatible with 2023.2.x)
+* GrepConsole
+* PlantUML
+
+== useless
+
+- Anime Memes
+- Power Mode II
+- Pokemon Progress Bar
+- Super Mario Progress Bar
+- What the commit
