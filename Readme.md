@@ -13,6 +13,7 @@
 * [EcoCylce Planning](./EcoCycle-Planning/EcoCycle-Planning.md)
 * [Logstash goes TDD](./Logstash%20goes%20TDD/README.md)
 * [pre-commit](./pre-commit/pre-commit.md)
+* [Error Handling without Exceptions](monads/README.adoc)
 
 ## Saturday
 
@@ -30,3 +31,4 @@
 * [TDD vs? Interactive/Literate Programming](./tdd-vs-ip-and-lp)
 * [3d printing](./3d-printing)
 * [Improving the accuracy of effort estimates](accuracy-of-effort-estimates/accuracy-of-effort-estimates.md)
+* [Mostly Useless IntelliJ Plugins](mostly-useless-plugins/README.adoc)
