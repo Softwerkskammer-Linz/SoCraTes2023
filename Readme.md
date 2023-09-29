@@ -13,6 +13,7 @@
 * [EcoCylce Planning](./EcoCycle-Planning/EcoCycle-Planning.md)
 * [Logstash goes TDD](./Logstash%20goes%20TDD/README.md)
 * [pre-commit](./pre-commit/pre-commit.md)
+* [Error Handling without Exceptions](monads/README.adoc)
 
 ## Saturday
 
